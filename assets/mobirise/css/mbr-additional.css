@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+#header1-0 H1 {
+  font-family: 'Playfair Display', sans-serif;
+  color: #e6e0dc;
+}
+#header1-0 .btn {
+  font-family: 'Roboto', sans-serif;
+}
+#header1-0 P {
+  color: #fbfbfb;
+}
+#content5-k .mbr-section-title {
+  font-size: 48px;
+}
+#menu-c .navbar-toggler {
+  color: #000;
+}
+#menu-c .nav-link {
+  font-family: 'Roboto', sans-serif;
+}
